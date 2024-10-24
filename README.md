@@ -1,5 +1,10 @@
-1. AWS Code Commit - GIT & GITHUB
-2. AWS Code Build - MAVEN & JENKINS
-3. AWS Code Deploy - JENKINS
-4. AWS Code Pipeline - JENKINS
-5. AWS Cloud Formation - Terraform
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
